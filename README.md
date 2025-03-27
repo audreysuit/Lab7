@@ -1,5 +1,5 @@
 # Lab7
-###Audrey Suit
+### Audrey Suit
 
  The purpose of this lab was to demonstrate connecting the Arduino IDE software with the GitHub Desktop app. 
 
